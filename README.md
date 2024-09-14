@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! 👋 I'm Christian!
 
-<!--
-**cbj11/cbj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **RPA Developer** and **Solution Architect** with experience in building and designing scalable solutions. I'm always excited to work on new technologies and projects that push the boundaries of automation and software development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning: Collaborate React.js with Microsoft Azure
+- 💼 I work at: **ISGS**
+- 👨‍💻 I have experience with: RPA Development, Solution Architecture, E-commerce platforms (e.g., CBJ)
+- 🎯 Goal: Continuously strive for excellence in both development and architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills and Tools
+### Programming Languages & Technologies
+- Python (Django, Flask)
+- JavaScript (React.js)
+- C#
+- VB.NET
+- HTML/HTML5/CSS
+
+### RPA Platforms
+- UiPath
+- Power Automate
+- Automation Anywhere
+
+### Cloud and Architecture
+- Google Cloud Platform (GCP)
+- AWS
+- Azure
+- Kubernetes
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 🌍 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/christian-b-883603212/)
+- [Email](mailto:christianbennett011@gmail.com)
