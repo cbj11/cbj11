@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Christian!
+![cbj11](https://github.com/user-attachments/assets/b463f4d7-5778-4fdf-a2a4-8e5e95ce69f5)
 
 Welcome to my GitHub profile! I'm a passionate **RPA Developer** and **Solution Architect** with experience in building and designing scalable solutions. I'm always excited to work on new technologies and projects that push the boundaries of automation and software development.
 
